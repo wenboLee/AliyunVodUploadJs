@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/masterloo/AliyunVodUploadJs.git"
+    "url": "git+https://github.com/chaselawgit/AliyunVodUploadJs.git"
   },
   "bugs": {
-    "url": "https://github.com/masterloo/AliyunVodUploadJs/issues"
+    "url": "https://github.com/chaselawgit/AliyunVodUploadJs/issues"
   },
-  "homepage": "https://github.com/masterloo/AliyunVodUploadJs#readme"
+  "homepage": "https://github.com/chaselawgit/AliyunVodUploadJs#readme"
 }
