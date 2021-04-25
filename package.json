@@ -1,7 +1,7 @@
 {
-  "name": "aliyun-vod-upload-js",
+  "name": "aliyun-vod-upload-js-1.5.2",
   "version": "1.0.0",
-  "description": "阿里云点播视频上传web端",
+  "description": "阿里云点播视频上传SDK npm版本",
   "main": "lib/index.js",
   "scripts": {
     "test": "karma start karma.config.js"
@@ -10,7 +10,7 @@
     "阿里云",
     "阿里云点播视频上传JS"
   ],
-  "author": "chaselaw",
+  "author": "wenbolee",
   "license": "ISC",
   "devDependencies": {
     "brfs": "^2.0.1",
@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chaselawgit/AliyunVodUploadJs.git"
+    "url": "git+https://github.com/wenbolee/AliyunVodUploadJs.git"
   },
   "bugs": {
-    "url": "https://github.com/chaselawgit/AliyunVodUploadJs/issues"
+    "url": "https://github.com/wenbolee/AliyunVodUploadJs/issues"
   },
-  "homepage": "https://github.com/chaselawgit/AliyunVodUploadJs#readme"
+  "homepage": "https://github.com/wenbolee/AliyunVodUploadJs#readme"
 }
