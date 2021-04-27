@@ -1,6 +1,6 @@
 {
   "name": "aliyun-vod-upload-js-1.5.2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "阿里云点播视频上传SDK npm版本",
   "main": "lib/index.js",
   "scripts": {
